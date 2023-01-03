@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D1","rd 3mm","PinHeader_1x02_P2.54mm_Vertical",-130.175000,-53.975000,180.000000,bottom
+"D2","ye 3mm","PinHeader_1x02_P2.54mm_Vertical",-121.920000,-53.970000,180.000000,bottom
+"D3","bl 3mm","PinHeader_1x02_P2.54mm_Vertical",-113.665000,-53.975000,180.000000,bottom
+"D4","gn 3mm","PinHeader_1x02_P2.54mm_Vertical",-124.460000,-86.619000,0.000000,bottom
